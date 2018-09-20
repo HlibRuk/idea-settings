@@ -6,6 +6,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="Scala.Desugar" />
   <action id="Scala.RunConsole" />
 </keymap>
